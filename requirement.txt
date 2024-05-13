@@ -4,4 +4,4 @@ sentencepiece
 einops
 accelerate
 tiktoken
-sentencepiece == 0.2.0
+sentencepiece==0.2.0
